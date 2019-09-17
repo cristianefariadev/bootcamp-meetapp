@@ -1,2 +1,5 @@
-# bootcamp-meetapp
-#Aplicação A aplicação que iremos dar início ao desenvolvimento a partir de agora é um app agregador de eventos para desenvolvedores chamado Meetapp (um acrônimo à Meetup + App).
+# MeetApp
+
+A aplicação desenvolvida é um app agregador de eventos para desenvolvedores chamado Meetapp (um acrônimo à Meetup + App).
+
+Que terá uma versão completa envolvendo back-end, front-end e mobile, utilizando Nodejs, Reactjs e React Native.
